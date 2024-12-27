@@ -1,10 +1,13 @@
 ---
 title: Getting Started🚀
+slug: my-hidden-post2
 description: How to use this blog template✨
 date: 2040-03-09T00:00:00+08:00
+hidden: true
 tags:
   - sample post
   - theme
+  - hidden
 ---
 
 ## Getting Started
@@ -50,7 +53,7 @@ description: some desc
 image: ../attachments/100.jpg # hero & social image
 date: 2024-02-26T23:30:47+08:00
 lastmod: 2024-02-26T23:30:47+08:00
-hidden: false # set this to true to make this post hidden from posts list. But the uri is still accessable.
+hidden: true # set this to true to make this post hidden from posts list. But the uri is still accessable.
 tags:
   - demo
   - theme

@@ -2,15 +2,15 @@ import type { PostHideElements } from '~/content/config';
 
 export const Site = 'https://cjk-blog.vercel.app/';
 export const SiteLanguage = 'jp';
-export const SiteTitle = 'ka';
-//export const SiteDescription = 'alway rember happy day';
+export const SiteTitle = 'すやすやすやすや';
+export const SiteDescription = ''//'alway rember happy day';
 export const FooterDescription = '尽く書を信ずれば書なきに如かず';
 export const AdminName = 'Olaf';
 export const PageSize = 15;
 
-// socialPlatform => userName
+socialPlatform => userName
 // check components/Header.astro socialConfig for more info
-//export const Socials: Record<string, Record<string, string>> = {
+export const Socials: Record<string, Record<string, string>> = {
 //	mail: { url: 'mailto:i@ladit.me' },
 //	github: { url: 'https://github.com/ladit/astro-blog-zozo' },
 //	x: { url: 'https://x.com/userName' },
@@ -32,7 +32,7 @@ export const PageSize = 15;
 //	zhihu: { url: 'https://zhihu.com/userName' },
 //	douban: { url: 'https://douban.com/userName' },
 //	discord: { url: '/rss.xml' },
-//};
+};
 
 // doc: https://giscus.app
 // data-theme is auto changed between noborder_light / noborder_gray

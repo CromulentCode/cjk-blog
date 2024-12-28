@@ -8,7 +8,7 @@ export const FooterDescription = '尽く書を信ずれば書なきに如かず'
 export const AdminName = 'Olaf';
 export const PageSize = 15;
 
-socialPlatform => userName
+//socialPlatform => userName
 // check components/Header.astro socialConfig for more info
 export const Socials: Record<string, Record<string, string>> = {
     discord: { url: 'https://discordapp.com/users/999363475111415840' },
